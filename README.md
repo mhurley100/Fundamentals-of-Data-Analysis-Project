@@ -3,7 +3,8 @@
 Introduction
 
 This project concerns the tips [6] dataset utilising Python [1] packages, seaborn [5] and jupyter [4]. 
-Plan:
+
+Project Plan:
 1.   Create and summarise the dataset with a well organised git repository and jupyter [4] notebook that uses descriptive statistics and plots to describe the tips [6] dataset.
     *   Review and observe the dataset.  Visually observe if any variables look interesting or warrant further review either now or further on in the project.
     * Import the dataset
@@ -23,7 +24,14 @@ Integer:    Party Size
 Text:   Sex, Smoker, Day & Time
 
 Import Dataset and libraries
-Tips dataset is inbuit into seaboarn therefore it is more efficient to import.
+Tips downloaded from https://github.com/mwaskom/seaborn-data/blob/master/tips.csv.
+
+Used pandas describe() to summarise using statistics.  
+
+Average bill i $19.68 average tip is $3 and average party size is 2.5.  Volume of customers is key therefore to higher tips as the bills are low.
+
+Overall this shows that tip rate is representative of perception of 15%.  However we need to dig a bit deeper to investigate if there are any underlying trends.
+
 Conclusion
 
 
