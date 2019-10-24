@@ -2,16 +2,14 @@
 
 ## Introduction
 
-Ìt is an established culture in the US to tip with the standard being 15%.  Are there behaviours that influence tip rate?  Is it possible to isolate the criteria that govern higher tip rate and increase pay for the server?  I am going to interrogate the tips [6] dataset and utilise Python [1] packages, seaborn [5] and jupyter [4] to figure out if there are variables that influence tip %. 
+Ìt is an established culture in the US to tip with the standard being 15%.  Are there behaviours that influence tip rate?  Is it possible to isolate the criteria that govern higher tip rate and increase pay for the server?  I am going to interrogate the tips [6] dataset and utilise Python [1] packages, seaborn [5] and jupyter [4] to figure out if there are variables that influence tip %. If a strong correlation can be demonstrated, underlying relationships can be investigated for other relationships. 
 
 #### Project Plan:
- -  Review and observe the dataset.  Visually observe if any variables look interesting or warrant further review either now or further on in the project.
+Review and observe the dataset.  Visually observe if any variables look interesting or warrant further review either now or further on in the project.
     - Import the tips[6] dataset
     - Use Pandas[7], Seaborn[5] & Juypter[4] to analyse statistically.
-    - Regression: indepth discussion and analysis of whether there is a 
-relationship between the total bill and tip amount.
+    - Regression: demonstrate correlation between the total bill and tip amount.
     - Using jupyter [4], analyse the relationship between the variables within the dataset with reasonable investigation of  the relationship between the variables, with interesting relationships highlighted.
-
 
 ### Visual Review and Observations of dataset:
 244 instances.  8 variables of different types:
@@ -54,6 +52,8 @@ Target tip is calculated (15% of total bill). Minimum and maximum are establishe
 Conclusion
 
 The majority of tips are in the range 10% to 20% which means that there is a correlation and customers do try to tip based on bill amount.
+There is a strong relationship meaning underlying relationships can be investigated for other relationships. 
+
 
 References
  - [1] Python Software Foundation. Welcome to python.org.
