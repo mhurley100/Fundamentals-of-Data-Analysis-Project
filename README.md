@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project interrogates the tips [6] dataset and utilises Python [1] packages, seaborn [5] and jupyter [4] to analyse if variables presented influence tip %. 
+This project interrogates the tips [6] dataset utilising Python [1], seaborn [5] and jupyter [4] packages. 
 
 #### Project Plan:
  - Research and understand the dataset
@@ -45,3 +45,5 @@ https://github.com/mwaskom/seaborn-data/blob/master/tips.csv.
  Bryant, P. G. and Smith, M (1995) Practical Data Analysis: Case Studies in Business Statistics. Homewood, IL: Richard D. Irwin Publishing
   - [10] Dicook.public.iastate.edu
  https://dicook.public.iastate.edu/stat503/05/cs-tips2.pdf
+  - [11] Harvard Business Review
+  https://hbr.org/2015/11/a-refresher-on-regression-analysis
