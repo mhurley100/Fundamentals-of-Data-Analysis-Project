@@ -4,21 +4,26 @@
 
 This project interrogates the tips [6] dataset utilising Python [1], seaborn [5] and jupyter [4] packages. 
 
-#### Project Plan:
+### Project Plan
+
  - Research and understand the dataset
  - Review variables and establish if a correlation exists between the total bill and tip amount
- - Determine which variables to include in the regression model to demonstrate correlation between the total bill and tip amount
- - Insights -hone in on an interesting dynamic
- - Critique others' research
+ - Include variables in the regression model to demonstrate correlation between the total bill and tip amount
+ - Analysis of the tipping patterns
+ - Comparative Analysis
+
     
-    ## Is there a relationship between bill and tip amount?
-This section reviews the factors that influence and determine tips.  
-The question is why are there deviations regarding tips i.e. why do some people pay more or less.  The server in this dataset is the control therefore it is assumed that she treats all customers the same.  So on quieter days is she paid more as she can provide a better service and she does not have multiple customers to serve at the same time? We are provided with 4 categories (smoker, sex, time and day). 
-The average tip is $3, the min is $1 and max is $10.  
+### Project outcome
 
-Target tip is calculated (15% of total bill). Minimum and maximum are established to allow for noise 5% upper and lower.
+Determine if any of the categories provided (sex, smoker, time and day) influence tip rate.
 
-Conclusion
+### Prerequisites
 
-The majority of tips are in the range 10% to 20% which means that there is a correlation and customers do try to tip based on bill amount.
-There is a strong relationship meaning underlying relationships can be investigated for other relationships. 
+Install Anaconda for the complete suite of packages.
+
+https://www.anaconda.com/download/
+
+### Jupyter Notebook
+
+Open the Jupyter notebook.  On the menu, select Kernel, then select "restart and run all". This will run the programs in the notebook.T
+
