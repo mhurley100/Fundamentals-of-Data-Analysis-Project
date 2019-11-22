@@ -22,28 +22,3 @@ Conclusion
 
 The majority of tips are in the range 10% to 20% which means that there is a correlation and customers do try to tip based on bill amount.
 There is a strong relationship meaning underlying relationships can be investigated for other relationships. 
-
-
-References
- - [1] Python Software Foundation. Welcome to python.org.
-https://www.python.org/.
- - [2] GMIT. Quality assurance framework.
-https://www.gmit.ie/general/quality-assurance-framework.
- - [3] GitHub Guides. Mastering markdown.
-https://guides.github.com/features/mastering-markdown/.
- - [4] Project Jupyter. Project jupyter.
-https://jupyter.org/.
- - [5] Michael Waskom. seaborn.
-https://seaborn.pydata.org/.
- - [6] Michael Waskom. Tips data set.
-https://github.com/mwaskom/seaborn-data/blob/master/tips.csv.
- - [7] Pandas Data Analysis library
- https://pandas.pydata.org.
-  - [8] Tripadvisor
- https://www.tripadvisor.ie/Travel-g191-s606/United-States:Tipping.And.Etiquette.html
-  - [9] Bryant, P. G. and Smith, M (1995)
- Bryant, P. G. and Smith, M (1995) Practical Data Analysis: Case Studies in Business Statistics. Homewood, IL: Richard D. Irwin Publishing
-  - [10] Dicook.public.iastate.edu
- https://dicook.public.iastate.edu/stat503/05/cs-tips2.pdf
-  - [11] Harvard Business Review
-  https://hbr.org/2015/11/a-refresher-on-regression-analysis
