@@ -13,12 +13,20 @@ The goal of this project is to help the server maximise tips.  There are 2 disti
 
 ### Project Plan
 
- - Research and understand the dataset
- - Review variables and establish if a correlation exists between the total bill and tip amount
- - Include variables in the regression model to demonstrate correlation between the total bill and tip amount
- - Analysis of the tipping patterns
- - Comparative Analysis
+ - Descriptive Statistics
+     - Research and understand the dataset
+     - Review variables and establish if a correlation exists between the total bill and tip amount
+          
+ - Regression
+     - Include variables in the regression model to demonstrate correlation between the total bill and tip amount
+     
+ - Analysis 
+     - Analysis of the tipping patterns
+     - Comparative Analysis
 
+ - Conclusion
+ 
+ 
 
 ### Prerequisites
 
@@ -30,5 +38,7 @@ https://www.anaconda.com/download/
 ### Run the Jupyter Notebook
 
 Open the Jupyter notebook.  
+
 On the menu, select Kernel, then select "restart and run all". 
+
 This will run the programs in the notebook.
